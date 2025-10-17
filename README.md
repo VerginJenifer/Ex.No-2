@@ -93,7 +93,7 @@ return 0;
 }
 ```
 ## OUTPUT:
-<img width="470" height="218" alt="image" src="https://github.com/user-attachments/assets/7b1f1bbb-b483-4872-a96b-6021c4cc0f71" />
+<img width="550" height="551" alt="image" src="https://github.com/user-attachments/assets/555a689e-fbff-4445-a98b-14dd4b774659" />
 
 ## RESULT:
  The lexical analyzer is implemented using lex and the output is verified.
